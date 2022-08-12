@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Personal Cybersecurity notes for Learning or making Projects.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://impulsado.github.com'
+url: 'https://impulsado.github.io'
 
 github:
   username: impulsado             # change to your github username
